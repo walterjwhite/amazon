@@ -3,7 +3,7 @@ package com.walterjwhite.amazon;
 import com.amazonaws.auth.AWSCredentialsProvider;
 import com.walterjwhite.amazon.property.AmazonAccessKeyId;
 import com.walterjwhite.amazon.property.AmazonSecretAccessKey;
-import com.walterjwhite.google.guice.property.property.Property;
+import com.walterjwhite.property.impl.annotation.Property;
 import javax.inject.Inject;
 import javax.inject.Provider;
 
