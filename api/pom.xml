@@ -7,19 +7,19 @@
   <parent>
     <groupId>com.walterjwhite.java.modules</groupId>
     <artifactId>amazon</artifactId>
-    <version>0.0.15-SNAPSHOT</version>
+    <version>0.0.17-SNAPSHOT</version>
   </parent>
   <dependencies>
     <dependency>
       <groupId>com.walterjwhite.java.dependencies</groupId>
       <artifactId>amazon-config</artifactId>
-      <version>0.0.15-SNAPSHOT</version>
+      <version>0.0.17-SNAPSHOT</version>
       <type>pom</type>
     </dependency>
     <dependency>
       <groupId>com.walterjwhite.java.infrastructure.inject</groupId>
       <artifactId>core</artifactId>
-      <version>0.0.15-SNAPSHOT</version>
+      <version>0.0.17-SNAPSHOT</version>
     </dependency>
   </dependencies>
 </project>

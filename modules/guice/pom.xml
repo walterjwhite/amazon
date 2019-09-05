@@ -8,13 +8,13 @@
   <parent>
     <groupId>com.walterjwhite.java.modules.amazon</groupId>
     <artifactId>modules</artifactId>
-    <version>0.0.15-SNAPSHOT</version>
+    <version>0.0.17-SNAPSHOT</version>
   </parent>
   <dependencies>
     <dependency>
       <groupId>com.walterjwhite.java.infrastructure.inject.providers</groupId>
       <artifactId>guice</artifactId>
-      <version>0.0.15-SNAPSHOT</version>
+      <version>0.0.17-SNAPSHOT</version>
     </dependency>
   </dependencies>
 </project>
